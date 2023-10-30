@@ -18,4 +18,8 @@ how many points out of 20 do you deserve on this assignment: 18/20
 
 ## Self-Reflection:
 
+This was a fun experience that taught me how to program with new phaser games. I did run into a a number of issues with some of the guides, but after a bit of troubleshooting, I was able to get my game working.
+
 ### How long it took me to finish this?
+
+3 Hours
